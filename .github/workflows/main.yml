@@ -6,5 +6,5 @@ jobs:
     This-is-my-first-job:
         runs-on: ubuntu-latest
         steps:
-            - run: python ok.py
+            - run: echo "welcome to Github Actions"
             
